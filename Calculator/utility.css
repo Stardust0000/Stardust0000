@@ -1,0 +1,27 @@
+.bg-pink{
+    background-color: pink;
+}
+.align-center{
+    align-items: center;
+}
+.center{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.row-marg{
+    margin-top:18px;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.max-w{
+    max-width: 20vw;
+    max-height: 100vh;;
+}
+.txt{
+    text-align: start;
+}
