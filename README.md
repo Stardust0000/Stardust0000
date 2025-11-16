@@ -11,12 +11,17 @@
 ```
 
 <p align="center">
+  <!-- SOLO LEVELING SYSTEM ANIMATION -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=7DF9FF&center=true&vCenter=true&width=550&lines=VISITOR+DETECTED...;SYNCING+POWER+LEVELS...;SYSTEM+ONLINE...;WELCOME%2C+HUNTER+CRIMSONSHADOW." />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=650&lines=Java+%7C+Python+%7C+SQL+%7C+Spring+Boot+%7C+React+%7C+HTML+%26+CSS;Level+Up+%F0%9F%94%AA;Building+Projects+%F0%9F%94%A5" alt="Skills Animation" />
 </p>
 
 
----
-
+----
 ## 🌌 **LEVEL 1: About Me**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Stardust0000&style=for-the-badge)
