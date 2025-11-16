@@ -1,4 +1,5 @@
 # ⚔️ **Arise!**
+
 ```
        ____   _  __  _  _  ____   _  __
  / __ \ / |/ / (_) |/ / / / / |/ /
@@ -28,12 +29,21 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Stardust0000?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Stardust0000?style=for-the-badge)
 
-**Name:** CrimsonShadow  
-**Class:** Developer-in-Training  
-**Alignment:** Solo Leveler  
-**Specialization:** Java, Python, Spring Boot, React, UI/UX  
+<p align="center">
+<pre style="background:#0A0F1F;color:#7DF9FF;padding:15px;border:2px solid #3EB7FF;border-radius:10px;font-size:18px;">
+[SYSTEM NOTIFICATION]
+Profile Synced Successfully
+Hunter: CrimsonShadow
+Status: Active
+Class: Developer-in-Training
+Specialization: Java, Python, Spring Boot, React, UI/UX   
+</pre>
+</p>
 
 > *"Even if I'm the only one who believes in me… that is enough to level up."*
+
+---
+
 
 ---
 
