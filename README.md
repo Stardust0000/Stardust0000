@@ -23,10 +23,10 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Stardust0000?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Stardust0000?style=for-the-badge)
 
-**Name:** Neha  
+**Name:** CrimsonShadow  
 **Class:** Developer-in-Training  
 **Alignment:** Solo Leveler  
-**Specialization:** Java, Spring Boot, React, UX Design  
+**Specialization:** Java, Python, Spring Boot, React, UI/UX  
 
 > *"Even if I'm the only one who believes in me… that is enough to level up."*
 
