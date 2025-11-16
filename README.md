@@ -1,21 +1,18 @@
 # ⚔️ **Arise!**
 ```
-      ██████╗ ██╗███╗   ██╗███████╗
-     ██╔════╝ ██║████╗  ██║██╔════╝
-     ██║  ███╗██║██╔██╗ ██║█████╗  
-     ██║   ██║██║██║╚██╗██║██╔══╝  
-     ╚██████╔╝██║██║ ╚████║███████╗
-      ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
-        SOLO • LEVELING • DEVELOPER
+       ____   _  __  _  _  ____   _  __
+ / __ \ / |/ / (_) |/ / / / / |/ /
+/ / / //    /  / /|   / / /_/ /|  / 
+\ \_/ //    \ / / |   \ \__, / | /  
+ \___//_/|_|/_/  |_/_/ /____/ |_/_  
+                                    
+      O K I R U — A W A K E N
+    SOLO • LEVELING • DEVELOPER
 ```
 
-
-<svg width="100%" height="40">
-  <text x="100%" y="30" font-size="20" fill="#88ccff" font-weight="bold">
-    <animate attributeName="x" from="100%" to="-100%" dur="10s" repeatCount="indefinite" />
-    Java • React • Python • SQL • UI/UX • Spring Boot • Git
-  </text>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=650&lines=Java+%7C+Python+%7C+SQL+%7C+Spring+Boot+%7C+React+%7C+HTML+%26+CSS;Level+Up+%F0%9F%94%AA;Building+Projects+%F0%9F%94%A5" alt="Skills Animation" />
+</p>
 
 
 ---
