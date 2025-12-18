@@ -43,11 +43,55 @@ Specialization: Java, Python, Spring Boot, React, UI/UX
 > *"Even if I'm the only one who believes in me… that is enough to level up."*
 
 ---
+## 🗡️ **LEVEL 2: Projects**
 
+🔥 **Featured Projects**
+
+#### 🌌 Twilight Trails — Responsive Travel Website
+
+A dark-themed, immersive travel website focused on visual storytelling and smooth user flows.
+
+* **Tech:** HTML • CSS • JavaScript
+* **Highlights:** Custom sliders, responsive layouts, modular UI, GitHub Pages deployment
+* **Live:** [https://stardust0000.github.io/Twilight-Trails/](https://stardust0000.github.io/Twilight-Trails/)
+* **Code:** [https://github.com/Stardust0000/Twilight-Trails](https://github.com/Stardust0000/Twilight-Trails)
 
 ---
 
-## 🛡️ **LEVEL 2: Current Stats**
+#### ⚔️ Daily Quest — Gamified Task Manager
+
+A React-based task manager that turns productivity into a game-like experience with progress tracking and persistence.
+
+* **Tech:** React • JavaScript • LocalStorage
+* **Highlights:** State-driven UI, progress tracking, modal-based system interactions
+* **Preview:** Screenshots available in portfolio
+* **Code:** [https://github.com/Stardust0000/DailyQuest](https://github.com/Stardust0000/DailyQuest)
+
+---
+
+#### 🐍 Python Quick Notes — Django CRUD App  
+A full-stack note-taking web application built with Django, focused on simplicity, usability, and clean data handling.
+
+- **Tech:** Python • Django • HTML • CSS  
+- **Features:**  
+  - Create, edit, mark complete, and delete notes  
+  - Persistent storage using Django models  
+  - Clean, minimal UI with task status indicators  
+- **Live:** https://quicknotes-6fgq.onrender.com  
+- **Code:** https://github.com/Stardust0000/QuickNotes  
+
+---
+
+#### 🎨 Twilight Trails — UX Case Study
+
+An end-to-end UX case study exploring user flows, layout decisions, and visual hierarchy for a travel platform.
+
+* **Tools:** Figma • UX Research • Wireframing
+* **Highlights:** Lo-fi → Hi-fi iterations, mobile-first design thinking
+* **Case Study:** Included in portfolio modal
+---
+
+## 🛡️ **LEVEL 3: Current Stats**
 
 ### 🧬 **Skill Tree**
 ```
@@ -68,7 +112,7 @@ Passive Skills Unlocked:
 
 ---
 
-## ⚙️ **LEVEL 3: Ongoing Quests**
+## ⚙️ **LEVEL 4: Ongoing Quests**
 
 ### 🎯 Main Quest: Become a Full-Stack Developer
 - Master Java & Spring Boot  
@@ -83,10 +127,6 @@ Passive Skills Unlocked:
 
 ---
 
-## 🗡️ **LEVEL 4: Projects**
-
-### 🔥 Featured Projects (Coming Soon)
----
 
 ## 🌱 **LEVEL 5: Growth Philosophy**
 
