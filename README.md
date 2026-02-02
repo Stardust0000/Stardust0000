@@ -87,7 +87,7 @@ A full-stack note-taking web application built with Django, focused on simplicit
 An end-to-end UX case study exploring user flows, layout decisions, and visual hierarchy for a travel platform.
 
 * **Tools:** Figma • UX Research • Wireframing
-* **Highlights:** Lo-fi → Hi-fi iterations, mobile-first design thinking
+* **Highlights:** Lo-fi → Hi-fi iterations
 * **Case Study:** Included in portfolio modal
 ---
 
