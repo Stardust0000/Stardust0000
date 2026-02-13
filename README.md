@@ -97,7 +97,7 @@ An end-to-end UX case study exploring user flows, layout decisions, and visual h
 ```
 Java Mastery        ████████▒▒  70%
 Python Mastery      ████████▒▒  70%
-Spring Boot         ██████▒▒▒▒  60%
+REST APIs           ██████▒▒▒▒  60%
 React               ███████▒▒▒  70%
 SQL                 ███████▒▒▒  70%
 UI/UX               ████████▒▒  80%
