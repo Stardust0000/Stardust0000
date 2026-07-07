@@ -167,13 +167,6 @@ A full-stack note-taking web application built with Django, focused on simplicit
 
 ---
 
-## 📊 **LEVEL 6: System Analytics**
-
-![Crimson Stats](https://github-readme-stats.vercel.app/api?username=Stardust0000&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust0000&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 **Contact Me**
 - GitHub: You are already here.
 - Portfolio: https://stardust0000.github.io/Portfolio/
