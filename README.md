@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=650&lines=Java+%7C+Python+%7C+SQL+%7C+Spring+Boot+%7C+React+%7C+HTML+%26+CSS;Level+Up+%F0%9F%94%AA;Building+Projects+%F0%9F%94%A5" alt="Skills Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=650&lines=Python+%7C+Django+%7C+SQL+%7C+Docker+%7C+React+%7C+HTML+%26+CSS;Level+Up+%F0%9F%94%AA;Building+Projects+%F0%9F%94%A5" alt="Skills Animation" />
 </p>
 
 
@@ -36,7 +36,7 @@ Profile Synced Successfully
 Hunter: CrimsonShadow
 Status: Active
 Class: Developer-in-Training
-Specialization: Java, Python, Spring Boot, React, UI/UX   
+Specialization: Python, SQL, JavaScript   
 </pre>
 </p>
 
