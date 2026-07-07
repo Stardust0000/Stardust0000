@@ -8,7 +8,8 @@
  \___//_/|_|/_/  |_/_/ /____/ |_/_  
                                     
       O K I R U — A W A K E N
-    SOLO • LEVELING • DEVELOPER
+
+    BUILD. BREAK. LEARN. REPEAT.
 ```
 
 <p align="center">
@@ -16,117 +17,147 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=7DF9FF&center=true&vCenter=true&width=550&lines=VISITOR+DETECTED...;SYNCING+POWER+LEVELS...;SYSTEM+ONLINE...;WELCOME%2C+HUNTER+CRIMSONSHADOW." />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=650&lines=Python+%7C+Django+%7C+SQL+%7C+Docker+%7C+React+%7C+HTML+%26+CSS;Level+Up+%F0%9F%94%AA;Building+Projects+%F0%9F%94%A5" alt="Skills Animation" />
-</p>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Building+Scalable+Backend+Systems;Python+%7C+Django+%7C+PostgreSQL+%7C+SQL+%7C+Kafka+%7C+Airflow+%7C+Docker;Always+Leveling+Up." /> </p>
 
 ----
+
+
 ## 🌌 **LEVEL 1: About Me**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Stardust0000&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Stardust0000?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Stardust0000?style=for-the-badge)
+👋 Hi, I'm Crimson
 
-<p align="center">
-<pre style="background:#0A0F1F;color:#7DF9FF;padding:15px;border:2px solid #3EB7FF;border-radius:10px;font-size:18px;">
-[SYSTEM NOTIFICATION]
-Profile Synced Successfully
-Hunter: CrimsonShadow
-Status: Active
-Class: Developer-in-Training
-Specialization: Python, SQL, JavaScript   
-</pre>
-</p>
+Backend Developer passionate about building scalable APIs, backend systems, and data-driven applications that solve real-world problems.
 
-> *"Even if I'm the only one who believes in me… that is enough to level up."*
+I'm currently focused on backend engineering using Python, Django, PostgreSQL, Docker, and modern software architecture while expanding into Data Engineering and Distributed Systems.
+> *"Every challenge is another opportunity to level up."*
 
 ---
+
 ## 🗡️ **LEVEL 2: Projects**
 
 🔥 **Featured Projects**
 
-#### 🌌 Twilight Trails — Responsive Travel Website
+#### Nirmaan (Private Client Project)
 
-A dark-themed, immersive travel website focused on visual storytelling and smooth user flows.
+Construction Management Platform built for managing construction projects from planning to execution.
 
-* **Tech:** HTML • CSS • JavaScript
-* **Highlights:** Custom sliders, responsive layouts, modular UI, GitHub Pages deployment
-* **Live:** [https://stardust0000.github.io/Twilight-Trails/](https://stardust0000.github.io/Twilight-Trails/)
-* **Code:** [https://github.com/Stardust0000/Twilight-Trails](https://github.com/Stardust0000/Twilight-Trails)
+- **Highlights:**
+ - Role-Based Access Control
+ - JWT Authentication
+ - Worker Attendance
+ - Material Inventory
+ - Project Progress Tracking
+ - Payment Management
+ - REST APIs
+* **Tech:** Python • Django • REST Framework • PostgreSQL • Docker
+ > *🔒 Repository is private due to client requirements.
 
 ---
 
-#### ⚔️ Daily Quest — Gamified Task Manager
+#### ⚡ Bank Fraud Detection Pipeline
 
-A React-based task manager that turns productivity into a game-like experience with progress tracking and persistence.
+Real-time fraud detection pipeline using an event-driven architecture.
 
-* **Tech:** React • JavaScript • LocalStorage
-* **Highlights:** State-driven UI, progress tracking, modal-based system interactions
-* **Preview:** Screenshots available in portfolio
-* **Code:** [https://github.com/Stardust0000/DailyQuest](https://github.com/Stardust0000/DailyQuest)
+- **Highlights:**
+ - Streaming transaction processing
+ - Fraud rule evaluation
+ - Containerized services
+ - REST API integration
+- **Tech:** Python • Apache Kafka • MongoDB • Docker
+- **Preview:** Screenshots available in portfolio
+- **Code:** [https://github.com/Stardust0000/  ](https://github.com/Stardust0000/BankFraudDetectionPipeline)
+
+---
+
+#### 📊 Dockerized ETL Pipeline
+
+Automated ETL workflow that extracts, transforms, and loads transactional data into analytics-ready datasets.
+
+- **Highlights:**
+   - Multi-source data ingestion
+   - Automated scheduling
+   - Data transformation
+   - Analytics-ready outputs
+- **Tech:** Python • Apache Airflow • PostgreSQL • MongoDB • Pandas • Docker
+- **Code:** [https://github.com/Stardust0000/](https://github.com/Stardust0000/dockerized-ecommerce-etl-pipeline)  
+
+---
+
+#### 📝 NoteDesk
+
+A note management application focused on clean backend architecture and RESTful API development.
+
+- **Highlights:**
+ - Authentication
+ - CRUD Operations
+ - Database Design
+ - Clean Project Structure
+- **Tech:** Python Django SQLite
+- **Code:** [https://github.com/Stardust0000/NoteDesk  ](https://github.com/Stardust0000/NoteDesk)
 
 ---
 
 #### 🐍 Python Quick Notes — Django CRUD App  
 A full-stack note-taking web application built with Django, focused on simplicity, usability, and clean data handling.
 
-- **Tech:** Python • Django • HTML • CSS  
-- **Features:**  
+- **Highlights:**  
   - Create, edit, mark complete, and delete notes  
   - Persistent storage using Django models  
-  - Clean, minimal UI with task status indicators  
+  - Clean, minimal UI with task status indicators 
+- **Tech:** Python • Django • HTML • CSS   
 - **Live:** https://quicknotes-6fgq.onrender.com  
-- **Code:** https://github.com/Stardust0000/QuickNotes  
+- **Code:** [https://github.com/Stardust0000/QuickNotes  ](https://github.com/Stardust0000/DailyQuest)
 
 ---
 
-#### 🎨 Twilight Trails — UX Case Study
+## 🛡️ **LEVEL 3: Tech Stack**
 
-An end-to-end UX case study exploring user flows, layout decisions, and visual hierarchy for a travel platform.
+#### Backend
+ - Python
+ - Django
+ - Django REST Framework
 
-* **Tools:** Figma • UX Research • Wireframing
-* **Highlights:** Lo-fi → Hi-fi iterations
-* **Case Study:** Included in portfolio modal
----
+#### Data Engineering
+ - Kafka
+ - Airflow
+ - Pandas
 
-## 🛡️ **LEVEL 3: Current Stats**
+#### Databases
+ - PostgreSQL
+ - MongoDB
+ - MySQL
 
-### 🧬 **Skill Tree**
-```
-Java Mastery        ████████▒▒  70%
-Python Mastery      ████████▒▒  70%
-REST APIs           ██████▒▒▒▒  60%
-React               ███████▒▒▒  70%
-SQL                 ███████▒▒▒  70%
-UI/UX               ████████▒▒  80%
-Git & GitHub        ████████▒▒  75%
-```
+#### Tools
+ - Docker
+ - Git
+ - Postman
+ - Power BI
 
-Passive Skills Unlocked:
-- Rapid Learning  
-- Problem Solving  
-- Adaptability  
-- Team Communication  
+#### Passive Skills:
+ - Rapid Learning  
+ - Problem Solving  
+ - Adaptability  
+ - Team Communication  
 
 ---
 
 ## ⚙️ **LEVEL 4: Ongoing Quests**
 
-### 🎯 Main Quest: Become a Full-Stack Developer
-- Master Java & Spring Boot  
-- Strengthen React  
-- Complete UX Portfolio  
-- Build real-world apps  
+### 🎯 Currently Building
+ - 🏗️ Nirmaan Construction Management Platform
+ - 🔐 Secure REST APIs
+ - 📈 Project Progress Tracking
+ - 🏢 Scalable Backend Architecture
 
-### 🗂️ Side Quests
-- Strengthen Coding
-- DSA    
-- Daily System Quests  
+### 📚 Currently Exploring
+ - Redis
+ - Celery
+ - AWS
+ - Distributed Systems
+ - System Design
+ - CI/CD
 
 ---
-
 
 ## 🌱 **LEVEL 5: Growth Philosophy**
 
@@ -136,31 +167,10 @@ Passive Skills Unlocked:
 
 ---
 
-## 🎉 **LEVEL 6: Fun Fact**
-
-I treat life like an RPG.  
-Every challenge = Dungeon  
-Every new skill = Stat Boost  
-Every day = New Quest  
-
----
-
-## 📊 **LEVEL 8: System Analytics**
+## 📊 **LEVEL 6: System Analytics**
 
 ![Crimson Stats](https://github-readme-stats.vercel.app/api?username=Stardust0000&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stardust0000&layout=compact&theme=tokyonight)
-
----
-
-## 🌀 **LEVEL 9: The System Is Watching**
-```
-[ SYSTEM MESSAGE ]
-User: StarDust
-Class: Rising Developer
-Status: Leveling...
-EXP Gain: +120
-Next Skill Unlock: Determination++
-```
 
 ---
 
@@ -168,3 +178,9 @@ Next Skill Unlock: Determination++
 - GitHub: You are already here.
 - Portfolio: https://stardust0000.github.io/Portfolio/
 - Email: nehanavade1111@gmail.com
+
+---
+
+<p align="center">
+⚔️ "The only competition is the person I was yesterday."
+</p>
